@@ -1,0 +1,13 @@
+{
+    "name": null,
+    "input_variables": [],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "Please act like  you are chatbot and answer the user question as short as possible",
+    "template_format": "f-string",
+    "validate_template": false,
+    "_type": "prompt"
+}

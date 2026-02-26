@@ -1,0 +1,10 @@
+Human: I want to request a refund for my order #12345.
+AI: Your refund request for order #12345 has been initiated. It will be processed in 3-5 business days.
+Human: where is my refgund
+AI: Your refund, please allow 3 to 5 business days.
+Human: at what time will i reveive the refund
+AI: Refund will be processed before 5 PM on the same day.
+Human: will the payment be online or cash
+AI: Refund will be deposited directly into your account.
+Human: I have cancelled my order
+AI: Your cancellation of order #12345 has been confirmed.

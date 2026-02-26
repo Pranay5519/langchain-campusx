@@ -1,0 +1,22 @@
+The Bombay Stock Exchange (BSE), established in 1875, is Asia's oldest stock exchange
+and a cornerstone of India's financial system. It provides a regulated platform for investors
+to buy and sell a wide array of financial instruments, facilitating capital formation for
+corporations and wealth creation for investors. As of today, over 6,000 companies are
+listed on the BSE, making it one of the largest exchanges globally in terms of listed
+entities (HDFC Bank). The trading on BSE is fully electronic, operating on the BOLT (BSE
+On-Line Trading) system, and is regulated by the Securities and Exchange Board of India
+(SEBI).
+The securities traded on the BSE can be broadly categorized into several major
+segments, each serving different investment objectives and risk appetites.
+1.1 Equity Instruments
+Equity instruments represent ownership in a company. When you buy a share, you
+become a part-owner of the business, entitling you to a portion of its profits and a say in
+its governance, depending on the type of share.
+Equity Shares (Common Shares)
+Equity shares are the most common type of security traded on the BSE. They represent
+the primary ownership stake in a corporation. Shareholders are entitled to voting rights on
+key corporate matters and receive dividends, which are a portion of the company's profits
+distributed to shareholders. However, dividend payments are not guaranteed and depend
+on the company's profitability and board decisions. In the event of liquidation, equity
+shareholders have the last claim on the company's assets after all debts and other
+obligations have been settled (Bajaj Finserv)
