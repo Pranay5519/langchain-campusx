@@ -1,8 +1,15 @@
-def square(x):
-    return x * x
+from langchain_groq import ChatGroq
+from dotenv import load_dotenv
+load_dotenv()
 
-print(square(12))
+llm = ChatGroq(
+    temperature=0,
+    model_name="openai/gpt-oss-120b",
+    max_tokens=4000
+)
 
+response = llm.invoke("what are transformers")
 
-square = lambda x : x * x
-print(square(12))
+print(response)
+print("===="*40)
+print(response.content)
